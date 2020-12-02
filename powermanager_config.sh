@@ -1,0 +1,1 @@
+/home/pi/powermanager/config.sh
