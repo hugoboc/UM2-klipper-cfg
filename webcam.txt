@@ -1,4 +1,3 @@
 camera="usb"
 camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-046d_HD_Webcam_C525_0168CF20-video-index0"
-# camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-046d_HD_Webcam_C525_0168CF20-video-index1"
 camera_http_options="-n -p 8080"
